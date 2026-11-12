@@ -3,6 +3,15 @@
   <channel>
     <title>MemCleaner</title>
     <item>
+      <title>Verzija 0.1.2</title>
+      <pubDate>Thu, 12 Nov 2026 23:22:34 +0100</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Aplikacija sada koristi boju isticanja iz Postavki sistema › Izgled umjesto fiksne zelene.]]></description>
+      <enclosure url="https://github.com/adnandzaficVS/MemCleaner-releases/releases/download/v0.1.2/MemCleaner-0.1.2.dmg" sparkle:edSignature="dHJPYdoLVPxsYknSsHxRRqszop6BaChGhQZEy4GFslZ4AbtxgUBg2KPuLitPOMPtXdyaOf+aOkqs810Pq2GgAw==" length="7675563" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Verzija 0.1.1</title>
       <pubDate>Thu, 12 Nov 2026 22:58:05 +0100</pubDate>
       <sparkle:version>1</sparkle:version>
