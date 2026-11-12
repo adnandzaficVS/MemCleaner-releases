@@ -3,6 +3,15 @@
   <channel>
     <title>MemCleaner</title>
     <item>
+      <title>Verzija 0.1.4</title>
+      <pubDate>Thu, 12 Nov 2026 23:58:34 +0100</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[MemCleaner sada sam provjerava nove verzije pri pokretanju i svakih 6 sati.<br>Kad postoji nova verzija, vidiš je u meniju na traci i u Postavkama, uz jednu obavijest.]]></description>
+      <enclosure url="https://github.com/adnandzaficVS/MemCleaner-releases/releases/download/v0.1.4/MemCleaner-0.1.4.dmg" sparkle:edSignature="sRBpc7UhXBqv3+M068R46gFEZ7pDAipr8ZXeUXe9rm43E1h7Y9LF/jO57Gy8ZMLM5s6njnrvoU0knkwn0UFzCg==" length="7724454" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Verzija 0.1.3</title>
       <pubDate>Thu, 12 Nov 2026 23:31:43 +0100</pubDate>
       <sparkle:version>3</sparkle:version>
