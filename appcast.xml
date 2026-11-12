@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>MemCleaner</title>
+    <item>
+      <title>Verzija 0.1.1</title>
+      <pubDate>Thu, 12 Nov 2026 22:58:05 +0100</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Prva verzija sa ugrađenim sistemom ažuriranja]]></description>
+      <enclosure url="https://github.com/adnandzaficVS/MemCleaner-releases/releases/download/v0.1.1/MemCleaner-0.1.1.dmg" sparkle:edSignature="Hu9Ejk8wPKBJNm4H0TRgRuosQVaMVoc1bXza6YgSFx9EmMd2yfogaWWkYFY6DUD2bJUne8jM+fWAnaWPxfWLBg==" length="7676536" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
